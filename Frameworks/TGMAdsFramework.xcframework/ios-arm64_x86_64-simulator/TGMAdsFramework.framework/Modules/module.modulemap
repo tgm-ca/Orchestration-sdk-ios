@@ -1,0 +1,6 @@
+framework module TGMAdsFramework {
+  umbrella header "TGMAdsFramework.h"
+  export *
+
+  module * { export * }
+}
